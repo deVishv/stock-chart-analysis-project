@@ -1,8 +1,10 @@
 # Stock Chart Analysis with ChatGPT
 
+![Image of a robot looking at a stock candlestick chart](robotstockchart.webp)
+
 ### about-this-project :information_source:
 
-This is a Python project that helps get stock market information, plot the data on a chart, and later analyze the graph for position.
+This is a Python based project that helps get stock market information, plot the data on a chart, and later analyze the graph for position.
 
 ### features :hammer_and_wrench:
 
