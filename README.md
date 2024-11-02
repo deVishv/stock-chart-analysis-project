@@ -32,10 +32,10 @@ This is a Python based project that helps get stock market information, plot the
    CHART_PATH = "The path to image of the stock chart goes here"
    ```
    
-3. Clone the repository using the following lines of code on your terminal.
+3. Clone the repository using the following lines of code on terminal.
    
    ```
-   git clone https://github.com/deVishv/stock_chart_analysis_project
+   git clone https://github.com/deVishv/stock-chart-analysis-project
    ```
 
 ### usage :computer:
